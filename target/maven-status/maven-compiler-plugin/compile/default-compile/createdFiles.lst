@@ -1,0 +1,4 @@
+config\JobConfiguration.class
+config\JobConfiguration$1.class
+springbatch\split\SplitTest.class
+test\TestApp.class
